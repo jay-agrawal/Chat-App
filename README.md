@@ -1,6 +1,8 @@
-# chatapp
+# ChatApp
 
-A new Flutter project.
+This is a flutter realtime chat App made with FireBase and Firestore.
+
+## Screenshots
 
 ## Getting Started
 
