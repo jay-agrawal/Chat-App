@@ -4,6 +4,9 @@ This is a flutter realtime chat App made with FireBase and Firestore.
 
 ## Screenshots
 
+![Screenshot_2020-08-13-19-19-35-65](https://user-images.githubusercontent.com/48161576/90230560-58a50a00-de37-11ea-87e3-88df785d1eb7.jpg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
